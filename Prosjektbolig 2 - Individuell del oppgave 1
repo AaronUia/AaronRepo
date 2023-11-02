@@ -1,5 +1,6 @@
 
 #funksjon for å lage nordiske flagg med tre forskjellige farger:
+
 fun nordiske-flagg(bakgrunn, midt, topp):
   frame(
     underlay-xy((rectangle(300, 200, "solid", bakgrunn)), 0, 0,
