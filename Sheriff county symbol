@@ -1,0 +1,7 @@
+
+#sherriff county
+
+overlay(star-polygon(120, 8, 2, "solid", "yellow"), circle(200, "solid", "black"))
+
+text("Sheriff county", 70, "black")
+
